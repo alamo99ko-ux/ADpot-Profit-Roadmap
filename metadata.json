@@ -1,0 +1,6 @@
+{
+  "name": "AdPot Profit Roadmap",
+  "description": "Profit roadmap for AdPot based on user analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
